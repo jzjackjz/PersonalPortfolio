@@ -1,4 +1,4 @@
-# PersonalPortfolio
+# Personal Website Poertfolio
 
 My personal portfolio website showcases my resume, contact information, and more about me.
 
