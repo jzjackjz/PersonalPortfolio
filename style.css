@@ -283,10 +283,6 @@ section {
   display: flex;
 }
 
-.about-pic {
-  border-radius: 2rem;
-}
-
 .arrow {
   position: absolute;
   right: -5rem;
@@ -367,6 +363,15 @@ article .icon {
 .project-img {
   width: 100%;
   height: 100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.project-img2 {
+  width: 100%;
+  height: 100%;
+  padding-top: 5%;
+  padding-bottom: 8%;
 }
 
 .project-title {
