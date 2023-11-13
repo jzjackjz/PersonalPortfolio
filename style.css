@@ -291,12 +291,13 @@ section {
 
 .details-container {
   padding: 1.5rem;
-  flex: 1;
+  flex: 0.5;
   background: white;
-  border-radius: 2rem;
+  border-radius: 1rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
+  margin: auto
 }
 
 .section-container {
@@ -310,7 +311,7 @@ section {
   margin: auto 0;
 }
 
-/* EXPERIENCE SECTION */
+/* SKILLS SECTION */
 
 #experience {
   position: relative;
@@ -349,7 +350,7 @@ article .icon {
   cursor: default;
 }
 
-/* PROJECTS SECTION */
+/* WORK EXPERIENCE SECTION */
 
 #projects {
   position: relative;
